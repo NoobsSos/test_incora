@@ -7,7 +7,11 @@ Follow all the steps to successfully launch project
 Clone the project
 
 ```
-  git clone https://link-to-project
+  git clone https://github.com/NoobsSos/test_incora
+```
+
+```
+  cd test_incora
 ```
 
 After opening the project, write in the terminal
@@ -16,7 +20,7 @@ After opening the project, write in the terminal
 ```
 then **IMPORTANT**
 ```
-  change Environment Variables in .env
+  rename .env.example to .env and change Environment Variables
 ```
 finally
 ```
